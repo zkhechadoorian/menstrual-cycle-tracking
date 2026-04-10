@@ -14,6 +14,12 @@ This project is actively under development. Nothing here is stable yet.
 - Flag phases that fall outside personal and population-level norms
 - Eventually: lightweight local dashboard for cycle visualization
 
+## Population Reference Statistics
+
+![Cycle and Luteal Phase Length Distributions](assets/cycle_stats.png)
+
+Distributions of cycle and luteal phase lengths from the Fehring (2012) dataset, with mean (μ) and standard deviation (σ) markers.
+
 ## Data Sources
 
 **Population reference data**
