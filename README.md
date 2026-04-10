@@ -14,6 +14,17 @@ This project is actively under development. Nothing here is stable yet.
 - Flag phases that fall outside personal and population-level norms
 - Eventually: lightweight local dashboard for cycle visualization
 
+## Data Sources
+
+**Population reference data**
+Fehring, R.J. (2012). *Menstrual Cycle Data*. Marquette University ePublications.
+[https://epublications.marquette.edu/data_nfp/7/](https://epublications.marquette.edu/data_nfp/7/)
+
+Used to establish population-level distributions of luteal and follicular phase lengths against which personal data is compared.
+
+**Personal data**
+Wearable skin temperature and readiness data via personal device API. Not included in this repository.
+
 ## Stack
 
 - Python
